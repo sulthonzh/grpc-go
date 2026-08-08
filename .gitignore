@@ -7,3 +7,12 @@ __pycache__/
 .venv/
 *.egg-info/
 .mypy_cache/
+# Go-specific
+vendor/
+*.test
+*.out
+coverage.txt
+coverage.html
+coverage/
+.DS_Store
+*.log
